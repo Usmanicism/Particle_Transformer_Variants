@@ -27,10 +27,10 @@ To run the training, use the following command:
 ./train_JetClass.sh [SWAPT|ParMat|ParT|PN|PFN|PCNN] [kin|kinpid|full] ...
 ```
 
-### Additional arguments can be passed directly to the weaver command, such as '#--batch-size', '#--start-lr', '#--gpus'. These arguments will override existing parameters in train_JetClass.sh.
+Additional arguments can be passed directly to the weaver command, such as '#--batch-size', '#--start-lr', '#--gpus'. These arguments will override existing parameters in train_JetClass.sh.
 
 ## Citation
-### If you use the Particle Transformer code and/or the JetClass dataset in your work, please cite the following paper:
+If you use the Particle Transformer code and/or the JetClass dataset in your work, please cite the following paper:
 ```
 @misc{usman2024particlemultiaxistransformerjet,
       title={Particle Multi-Axis Transformer for Jet Tagging}, 
