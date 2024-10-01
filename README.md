@@ -23,9 +23,9 @@ Download the files from this repository and place them as follows:
 ### 3. Running the Training
 To run the training, use the following command:
 
-'''bash
+```bash
 ./train_JetClass.sh [SWAPT|ParMat|ParT|PN|PFN|PCNN] [kin|kinpid|full] ...
-'''
+```
 
 ### Additional arguments can be passed directly to the weaver command, such as '#--batch-size', '#--start-lr', '#--gpus'. These arguments will override existing parameters in train_JetClass.sh.
 
