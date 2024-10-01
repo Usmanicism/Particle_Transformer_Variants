@@ -31,7 +31,7 @@ To run the training, use the following command:
 
 ## Citation
 ### If you use the Particle Transformer code and/or the JetClass dataset in your work, please cite the following paper:
-'''
+```
 @misc{usman2024particlemultiaxistransformerjet,
       title={Particle Multi-Axis Transformer for Jet Tagging}, 
       author={Muhammad Usman and M Husnain Shahid and Maheen Ejaz and Ummay Hani and Nayab Fatima and Abdul Rehman Khan and Asifullah Khan and Nasir Majid Mirza},
@@ -41,4 +41,4 @@ To run the training, use the following command:
       primaryClass={hep-ph},
       url={https://arxiv.org/abs/2406.06638}, 
 }
-'''
+```
