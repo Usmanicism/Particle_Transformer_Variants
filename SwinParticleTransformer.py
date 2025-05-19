@@ -13,7 +13,7 @@ from functools import partial
 from weaver.utils.logger import _logger
 
 
-from .swin import SwinAttentionLayer
+from .swin_modified import SwinAttentionLayer
 
 
 ACTIVATIONS = {
