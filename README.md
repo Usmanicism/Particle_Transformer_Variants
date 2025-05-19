@@ -18,7 +18,7 @@ Download the files from this repository and place them as follows:
 
 - Replace `train_JetClass.sh` in the `Particle_Transformer` folder.
 - Place `example_MultiAxisParticleTransformer.py` and `example_SwinParticleTransformer.py` in the `Particle_Transformer/networks` folder.
-- Place `MultiAxisParticleTransformer.py` and `SwinParticleTransformer.py` in the `weaver-core/weaver/nn/model` folder.
+- Place `maxvit_modified.py`, `swin_modified.py`, `MultiAxisParticleTransformer.py` and `SwinParticleTransformer.py` in the `weaver-core/weaver/nn/model` folder.
 
 ### 3. Running the Training
 To run the training, use the following command:
