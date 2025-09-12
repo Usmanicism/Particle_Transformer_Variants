@@ -3,8 +3,8 @@
 This repository contains modifications to the [Particle Transformer](https://github.com/jet-universe/particle_transformer) project. It introduces two new variants of the Particle Transformer model for enhanced performance in jet tagging tasks.
 
 ## New Variants
-1. **MultiAxis Particle Transformer**
-2. **Swin Particle Transformer (SWAPT)**
+1. **[MultiAxis Particle Transformer](https://arxiv.org/abs/2406.06638)**
+2. **[Swin Particle Transformer (SWAPT)](https://www.researchgate.net/publication/394872724_Jet-Tagging_for_LHC_data_using_Swin-Transformer)**
 
 ## How to Use
 
